@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="date-time" />
+        <module name="compare-api" />
+        <module name="thread-api" />
+        <module name="eum-api" />
+        <module name="string-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="compare-api" target="1.8" />
+      <module name="date-time" target="1.8" />
+      <module name="eum-api" target="1.8" />
+      <module name="java-high-level-api" target="1.8" />
+      <module name="string-api" target="1.8" />
+      <module name="thread-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

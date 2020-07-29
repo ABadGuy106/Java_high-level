@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compare-api/compare-api.iml" filepath="$PROJECT_DIR$/compare-api/compare-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date-time/date-time.iml" filepath="$PROJECT_DIR$/date-time/date-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eum-api/eum-api.iml" filepath="$PROJECT_DIR$/eum-api/eum-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-high-level-api.iml" filepath="$PROJECT_DIR$/java-high-level-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-api/string-api.iml" filepath="$PROJECT_DIR$/string-api/string-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-api/thread-api.iml" filepath="$PROJECT_DIR$/thread-api/thread-api.iml" />
+    </modules>
+  </component>
+</project>
